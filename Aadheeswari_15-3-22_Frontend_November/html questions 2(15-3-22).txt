@@ -1,0 +1,7 @@
+2). Write any four various formatting tags in HTML?
+
+
+         => <b> - makes text bold
+         => <i> - makes text italic
+         => <strong> - marks the text as important
+         => <mark> - highlights the text

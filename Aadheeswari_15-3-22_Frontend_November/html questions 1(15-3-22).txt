@@ -1,0 +1,6 @@
+1). What are the different kinds of Doctypes available?
+
+
+        => Strict Doctype 
+        => Transitional Doctype 
+        => Frameset Doctype

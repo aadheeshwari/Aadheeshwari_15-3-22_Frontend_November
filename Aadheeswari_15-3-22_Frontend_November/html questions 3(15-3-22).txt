@@ -1,0 +1,11 @@
+3. What are void elements in HTML?   
+
+
+      HTML elements which do not have closing tags or do not need to be closed are Void elements.
+
+
+Example:-
+     
+        => <br />
+        => <img />
+        => <hr /> Etc.......

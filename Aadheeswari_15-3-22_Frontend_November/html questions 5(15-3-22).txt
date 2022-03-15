@@ -1,0 +1,7 @@
+5). what are the tags are used for HTML Tables?
+
+
+       => An HTML table is defined with a <table> tag.
+       => Table rows are defined with <tr> tags.
+       => Table headers are defined with <th> tags. (bold and centered by default).
+       => Table cells (data) are defined with <td> tags.
